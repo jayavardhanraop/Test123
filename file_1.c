@@ -25,4 +25,6 @@ int func_add(int a, int b)
 {
 	return a+b;
 >>>>>> branch1
+
+	//TEST123
 }
